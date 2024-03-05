@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "099325a287de8f73",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.34.05.png"
-              }
-            }
-          },
-          {
             "id": "561c0f294afa3fb2",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,17 +159,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "561c0f294afa3fb2",
+  "active": "429957964e751241",
   "lastOpenFiles": [
     "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.34.05.png",
-    "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.39.14.png",
     "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
+    "Artificial Intelligence/Orange/Orange Data Mining.md",
+    "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.39.14.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.20.05.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.21.53.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.23.25.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.25.24.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.26.28.png",
-    "Artificial Intelligence/Orange/Orange Data Mining.md",
     "Artificial Intelligence/Teachable Machine",
     "Artificial Intelligence/Orange/orange_data_analysis_test.ows",
     "Artificial Intelligence/Orange/test.csv",
