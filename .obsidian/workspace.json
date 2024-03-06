@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f478882fcb3ab6c",
+        "id": "03e7b432aac3b289",
         "type": "tabs",
         "children": [
           {
-            "id": "429957964e751241",
+            "id": "e79227f8f7f4cfba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "561c0f294afa3fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
+                "file": "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
+                "file": "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
+                "file": "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Teachable Machine/Teachable Machine.md"
+                "file": "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md"
               }
             }
           }
@@ -161,30 +148,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "561c0f294afa3fb2",
+  "active": "e79227f8f7f4cfba",
   "lastOpenFiles": [
-    "Artificial Intelligence/tm-my-image-model/weights.bin",
-    "Artificial Intelligence/tm-my-image-model/model.json",
-    "Artificial Intelligence/tm-my-image-model/metadata.json",
-    "Artificial Intelligence/tm-my-image-model",
-    "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.39.14.png",
-    "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
-    "Artificial Intelligence/AI.excalidraw",
-    "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.34.05.png",
-    "Artificial Intelligence/AI.excalidraw.download/AI.excalidraw",
-    "Artificial Intelligence/AI.excalidraw.download",
-    "Artificial Intelligence/AI 1.excalidraw",
+    "Artificial Intelligence/Orange/Switching_Employees_Prediction.ows",
     "Artificial Intelligence/Orange/Orange Data Mining.md",
-    "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.20.05.png",
-    "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.21.53.png",
-    "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.23.25.png",
+    "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
+    "Artificial Intelligence/Orange/archive/이직할 직원 test.xls",
+    "Artificial Intelligence/Orange/archive/이직할 직원 test.xls.download/이직할 직원 test.xls",
+    "Artificial Intelligence/Orange/archive/이직할 직원 test.xls.download",
+    "Artificial Intelligence/Orange/archive/이직할 직원.xls",
+    "Artificial Intelligence/Orange/archive/이직할 직원.xls.download",
+    "Artificial Intelligence/Orange/archive/WA_Fn-UseC_-HR-Employee-Attrition.csv",
+    "Artificial Intelligence/Orange/archive/archive.zip.download/WA_Fn-UseC_-HR-Employee-Attrition.csv",
+    "Artificial Intelligence/Orange/archive/archive.zip.download/archive.zip",
+    "Artificial Intelligence/Orange/archive/archive.zip.download",
+    "Artificial Intelligence/Orange/archive/zara.csv",
+    "Artificial Intelligence/Orange/Boston Housing Prediction.png",
+    "Artificial Intelligence/Orange/Features.png",
+    "Artificial Intelligence/Orange/AdaBoost Prediction.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.25.24.png",
+    "Artificial Intelligence/Orange/Orange Data Analysis.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.26.28.png",
-    "Artificial Intelligence/Teachable Machine",
-    "Artificial Intelligence/Orange/orange_data_analysis_test.ows",
-    "Artificial Intelligence/Orange/test.csv",
-    "스크린샷 2024-03-05 14.41.08.png",
-    "스크린샷 2024-03-05 14.40.21.png",
+    "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.20.05.png",
+    "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.23.25.png",
+    "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.21.53.png",
+    "Artificial Intelligence/Orange/Kaggle Website.png",
+    "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
     "KangDongSeSac_DX_1-main/README.md",
     "README.md",
     "KangDongSeSac_DX_1-main/WBS의이해/4.3_LibreOffice_조건문_서식.md",
@@ -206,7 +195,6 @@
     "KangDongSeSac_DX_1-main/software/git_obsidian/2.2_localgit_생성하기.md",
     "KangDongSeSac_DX_1-main/software/git_obsidian/2.1_sourcetree설치.md",
     "KangDongSeSac_DX_1-main/software/git_obsidian/2.0_초간단GIT.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/2._PM에게_필요한GIT.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/1._PM의역할.md"
+    "KangDongSeSac_DX_1-main/software/git_obsidian/2._PM에게_필요한GIT.md"
   ]
 }
