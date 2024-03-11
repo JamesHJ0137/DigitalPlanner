@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "03e7b432aac3b289",
+        "id": "ddb503e16af0da7a",
         "type": "tabs",
         "children": [
           {
-            "id": "e79227f8f7f4cfba",
+            "id": "d1417d42f52225de",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/24_03_04 강의.excalidraw"
+                "file": "KangDongSeSac_DX_1-main/강의/2024-03-07 외부강의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f169a0e8641e1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45edd18a51bd79f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2af0a500a6cd4379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,14 +126,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/24_03_04 강의.excalidraw",
+                "file": "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -100,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/24_03_04 강의.excalidraw",
+                "file": "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,16 +166,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/24_03_04 강의.excalidraw"
+                "file": "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,28 +186,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e79227f8f7f4cfba",
+  "active": "2af0a500a6cd4379",
   "lastOpenFiles": [
+    "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
+    "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-07 외부강의.md",
-    "KangDongSeSac_DX_1-main/강의/23_03_04 강의.excalidraw",
+    "KangDongSeSac_DX_1-main/강의/ChatGPT Markdown.md",
+    "KangDongSeSac_DX_1-main/강의/한대희_외부강의.excalidraw",
     "KangDongSeSac_DX_1-main/강의/24_03_04 강의.excalidraw",
+    "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
+    "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
+    "KangDongSeSac_DX_1-main/README.md",
+    "README.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled",
+    "Excalidraw/Drawing 2024-03-07 13.56.21.excalidraw.md",
+    "KangDongSeSac_DX_1-main/강의/23_03_04 강의.excalidraw",
     "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
     "2024-03-07 외부강의.md",
     "KangDongSeSac_DX_1-main/2024-03-07 외부강의.md",
     "KangDongSeSac_DX_1-main/23_03_04 강의.excalidraw",
     "23_03_04 강의.excalidraw",
-    "KangDongSeSac_DX_1-main/강의/한대희_외부강의.excalidraw",
     "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/한대희_외부강의.excalidraw",
     "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/3-2.SW_Dev_with_ChatGPT(BE+FE).pdf",
     "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/3-1.ComputationThinking.pdf",
     "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/2-3.Text_AI_Customize.pdf",
-    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/2-1.Text_AI_and_LMM.pdf",
-    "Excalidraw/Drawing 2024-03-07 13.56.21.excalidraw.md",
     "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.34.05.png",
-    "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
     "Artificial Intelligence/Orange/Orange Data Mining.md",
     "Artificial Intelligence/Orange/Kaggle Website.png",
     "Artificial Intelligence/Orange/Results.png",
@@ -175,8 +227,6 @@
     "Artificial Intelligence/Orange/임시 csv 파일들.png",
     "Artificial Intelligence/Orange/Orange Data Analysis.png",
     "Artificial Intelligence/Orange/Boston Housing Prediction.png",
-    "KangDongSeSac_DX_1-main/README.md",
-    "README.md",
     "KangDongSeSac_DX_1-main/WBS의이해/4.3_LibreOffice_조건문_서식.md",
     "KangDongSeSac_DX_1-main/WBS의이해/4.2_GoogleSheet_조건문_서식.md",
     "KangDongSeSac_DX_1-main/WBS의이해/4.1_Excel_조건문_서식.md",
@@ -189,9 +239,6 @@
     "KangDongSeSac_DX_1-main/software/git_obsidian/2.9_브랜치합치기_mvp_3.md",
     "KangDongSeSac_DX_1-main/software/git_obsidian/2.8_브랜치만들기_mvp_2.md",
     "KangDongSeSac_DX_1-main/software/git_obsidian/2.7_브랜치만들기_mvp_1.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/2.6_파일내용_변경해서_커밋하기 2.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/2.5_파일내용_변경해서_커밋하기 1.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/2.4_파일추가해서_커밋하기.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/2.3_localgit_최초_커밋하기.md"
+    "KangDongSeSac_DX_1-main/software/git_obsidian/2.6_파일내용_변경해서_커밋하기 2.md"
   ]
 }
