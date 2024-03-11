@@ -10,7 +10,7 @@
 
 ~~~
 
-**GenAI Circulation**
+**GenAI Circulation** <br>
 ![GenAI Circulation|350](https://i.imgur.com/PQty7f0.png)
 
 **결론**
