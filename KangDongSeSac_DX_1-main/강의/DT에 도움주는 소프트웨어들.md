@@ -1,5 +1,6 @@
 # DT에 도움주는 소프트웨어들
-> Abstract
+**Abstract**
+
 ![핵심 자료 사진|300](https://i.imgur.com/HN58JpT.png)
 
 ## 레코딩 (캡쳐) SW
