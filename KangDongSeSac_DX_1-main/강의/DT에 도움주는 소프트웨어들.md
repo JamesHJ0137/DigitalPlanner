@@ -35,7 +35,7 @@
 
 > Obsidian Note 참고
 
-[[ChatGPT Markdown]]
+[ChatGPT Markdown](obsidian://open?vault=DigitalPlanner&file=KangDongSeSac_DX_1-main%2F%EA%B0%95%EC%9D%98%2FChatGPT%20Markdown)
 
 ---
 ### 최강 웹메모 (Benote)
