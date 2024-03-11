@@ -1,11 +1,11 @@
 # ChatGPT에서 마크다운 하는법
 ## 사용법
 ### 설치
-Chrome 이나 Edge에서 ChatGPT Markdown 설치
+Chrome 이나 Edge에서 ChatGPT Markdown 설치<br>
 [ChatGPT to Markdown](https://chromewebstore.google.com/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci)
 
 ### 활용
-![](https://i.imgur.com/0NeEYDl.png)
+![](https://i.imgur.com/0NeEYDl.png) <br>
 우측 상단에 있는 위의 버튼을 클릭
 
 ![활용된 사진 | 300](https://i.imgur.com/OgWI6yv.png)
