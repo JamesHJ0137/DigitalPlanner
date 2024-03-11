@@ -34,7 +34,8 @@
 [ChatGPT to Markdown 확장프로그램](https://chromewebstore.google.com/detail/chatgpt-to-markdown/dloobgjjpoohngalnjepgdggjeempdec)
 
 > Obsidian Note 참고
-   [[ChatGPT Markdown]]
+
+[[ChatGPT Markdown]]
 
 ---
 ### 최강 웹메모 (Benote)
