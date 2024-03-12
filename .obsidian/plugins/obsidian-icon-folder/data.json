@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFileHistoryLine",
+      "RiSpeakFill",
+      "FarFolder",
       "RiComputerLine",
       "RiBookmarkFill",
       "RiAiGenerate"
@@ -27,5 +30,8 @@
   },
   "Artificial Intelligence": "RiAiGenerate",
   "KangDongSeSac_DX_1-main/강의": "RiBookmarkFill",
-  "KangDongSeSac_DX_1-main/프로젝트관리": "RiComputerLine"
+  "KangDongSeSac_DX_1-main/프로젝트관리": "RiComputerLine",
+  "KangDongSeSac_DX_1-main": "FarFolder",
+  "KangDongSeSac_DX_1-main/개발자와대화법": "RiSpeakFill",
+  "KangDongSeSac_DX_1-main/스토리보드": "RiFileHistoryLine"
 }
