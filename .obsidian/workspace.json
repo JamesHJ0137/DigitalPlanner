@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +168,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53acf1086ab70aa5",
+  "floating": {
+    "id": "64344ccfb4e37efe",
+    "type": "floating",
+    "children": [
+      {
+        "id": "876e1e059d183d0c",
+        "type": "window",
+        "children": [
+          {
+            "id": "486db2d1881793fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66bf2981f71f44c0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "66bf2981f71f44c0",
   "lastOpenFiles": [
-    "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.md",
     "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.md",
     "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
