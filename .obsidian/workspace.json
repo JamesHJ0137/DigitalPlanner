@@ -24,12 +24,9 @@
             "id": "7de9b9c05f2ac226",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.pdf"
               }
             }
           },
@@ -47,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
+                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +127,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md"
+                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md"
               }
             }
           },
@@ -166,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,15 +182,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7de9b9c05f2ac226",
+  "active": "53acf1086ab70aa5",
   "lastOpenFiles": [
-    "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-14 강의.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-13 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.pdf",
+    "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-07 외부강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
+    "Obsidian with Google Calendar.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-14 강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-13 강의.md",
     "KangDongSeSac_DX_1-main/강의/24-03-04 강의.excalidraw",
     "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw",
     "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
@@ -232,8 +230,6 @@
     "KangDongSeSac_DX_1-main/WBS의이해/4.2_GoogleSheet_조건문_서식.md",
     "KangDongSeSac_DX_1-main/WBS의이해/4.1_Excel_조건문_서식.md",
     "KangDongSeSac_DX_1-main/WBS의이해/4._WBS이해.md",
-    "KangDongSeSac_DX_1-main/WBS의이해/3._githubblog_wiki.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/5._개발자와_디자이너_협업툴.md",
-    "KangDongSeSac_DX_1-main/software/git_obsidian/4._Obsidian과_markdown.md"
+    "KangDongSeSac_DX_1-main/WBS의이해/3._githubblog_wiki.md"
   ]
 }
