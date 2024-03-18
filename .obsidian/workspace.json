@@ -42,9 +42,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95375c1a4f31f751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
+                "file": "Test git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
+                "file": "Test git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/HTML & CSS.md"
+                "file": "Test git.md"
               }
             }
           },
@@ -182,39 +195,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53acf1086ab70aa5",
+  "active": "95375c1a4f31f751",
   "lastOpenFiles": [
+    "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
+    "Test git.md",
+    "KangDongSeSac_DX_1-main/강의/GenAI 활용.md",
+    "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
+    "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw",
+    "KangDongSeSac_DX_1-main/강의/ChatGPT Markdown.md",
+    "KangDongSeSac_DX_1-main/강의/한대희_외부강의.excalidraw",
+    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/3-2.SW_Dev_with_ChatGPT(BE+FE).pdf",
+    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/3-1.ComputationThinking.pdf",
+    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/2-3.Text_AI_Customize.pdf",
+    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/2-1.Text_AI_and_LMM.pdf",
+    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/1.AI-Literacy-HanDaehee-202403.pdf",
+    "KangDongSeSac_DX_1-main/강의/2024-03-07 외부강의.md",
+    "KangDongSeSac_DX_1-main/README.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.pdf",
     "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-07 외부강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
     "Obsidian with Google Calendar.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-14 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-13 강의.md",
     "KangDongSeSac_DX_1-main/강의/24-03-04 강의.excalidraw",
-    "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw",
-    "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
-    "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "KangDongSeSac_DX_1-main/2024-03-12 강의.pdf",
-    "2024-03-12 강의.pdf",
     "KangDongSeSac_DX_1-main/강의/web_3.png",
-    "KangDongSeSac_DX_1-main/강의/GenAI 활용.md",
     "KangDongSeSac_DX_1-main/강의/web_1.png",
     "KangDongSeSac_DX_1-main/강의/web_2.png",
     "Excalidraw/Drawing 2024-03-07 13.56.21.excalidraw.md",
-    "KangDongSeSac_DX_1-main/강의/ChatGPT Markdown.md",
-    "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw.download/DT SW.excalidraw",
-    "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw.download",
-    "KangDongSeSac_DX_1-main/강의/한대희_외부강의.excalidraw",
     "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
     "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
-    "KangDongSeSac_DX_1-main/README.md",
     "README.md",
-    "Untitled",
-    "KangDongSeSac_DX_1-main/강의/23_03_04 강의.excalidraw",
     "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
     "2024-03-07 외부강의.md",
     "KangDongSeSac_DX_1-main/2024-03-07 외부강의.md",
