@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md",
+                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md",
+                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md",
+                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md"
+                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md"
               }
             }
           },
@@ -161,11 +161,12 @@
   },
   "active": "2bb1167921f21c1c",
   "lastOpenFiles": [
-    "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
-    "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-20 강의.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-19 강의.md",
+    "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-20 강의.md",
+    "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
+    "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
     "Untitled",
     "Obsidian with Google Calendar.md",
     "python/myPythonStudy.ipynb",
