@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3be5f1002b978615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEMO-DAY PITCH DECK.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
+                "file": "DEMO-DAY PITCH DECK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
+                "file": "DEMO-DAY PITCH DECK.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md"
+                "file": "DEMO-DAY PITCH DECK.md"
               }
             }
           },
@@ -159,10 +173,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2bb1167921f21c1c",
+  "active": "3be5f1002b978615",
   "lastOpenFiles": [
-    "KangDongSeSac_DX_1-main/강의/2024-03-19 강의.md",
     "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
+    "DEMO-DAY PITCH DECK.md",
+    "KangDongSeSac_DX_1-main/스토리보드/readme.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-19 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-20 강의.md",
     "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
@@ -201,13 +217,11 @@
     "2024-03-07 외부강의.md",
     "KangDongSeSac_DX_1-main/2024-03-07 외부강의.md",
     "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.34.05.png",
-    "Artificial Intelligence/Orange/Orange Data Mining.md",
     "Artificial Intelligence/Orange/Kaggle Website.png",
     "Artificial Intelligence/Orange/Results.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.25.24.png",
     "Artificial Intelligence/Orange/Orange_Data_Analysis_Test.png",
     "Artificial Intelligence/Orange/Orange ows 파일.png",
-    "Artificial Intelligence/Orange/Orange 웹사이트.png",
-    "KangDongSeSac_DX_1-main/WBS의이해/4.3_LibreOffice_조건문_서식.md"
+    "Artificial Intelligence/Orange/Orange 웹사이트.png"
   ]
 }
