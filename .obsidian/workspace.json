@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "13f16420b1b3164e",
+        "id": "a6b0485a8a727fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb1167921f21c1c",
+            "id": "1cd43f24601eec3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3be5f1002b978615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEMO-DAY PITCH DECK.md",
+                "file": "Fast Campus/문제 발견 및 기회 창출 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "56673e45722c868d",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEMO-DAY PITCH DECK.md",
+                "file": "Fast Campus/문제 발견 및 기회 창출 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEMO-DAY PITCH DECK.md",
+                "file": "Fast Campus/문제 발견 및 기회 창출 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEMO-DAY PITCH DECK.md"
+                "file": "Fast Campus/문제 발견 및 기회 창출 2.md"
               }
             }
           },
@@ -157,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3be5f1002b978615",
+  "active": "1cd43f24601eec3c",
   "lastOpenFiles": [
+    "Fast Campus/문제 발견 및 기회 창출 1.md",
+    "Fast Campus/문제 발견 및 기회 창출 2.md",
+    "Fast Campus/Untitled.md",
+    "Fast Campus/Part.1 개론.md",
+    "Fast Campus/PM 직무 개념 차이.md",
+    "Obsidian Callout Tips.md",
+    "Fast Campus",
     "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
+    "PM.md",
     "DEMO-DAY PITCH DECK.md",
     "KangDongSeSac_DX_1-main/스토리보드/readme.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-19 강의.md",
@@ -183,7 +179,6 @@
     "KangDongSeSac_DX_1-main/강의/취업면접스킬향상_이애본센터장.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
     "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
-    "Untitled",
     "Obsidian with Google Calendar.md",
     "python/myPythonStudy.ipynb",
     "python",
@@ -209,13 +204,6 @@
     "KangDongSeSac_DX_1-main/강의/web_3.png",
     "KangDongSeSac_DX_1-main/강의/web_1.png",
     "KangDongSeSac_DX_1-main/강의/web_2.png",
-    "Excalidraw/Drawing 2024-03-07 13.56.21.excalidraw.md",
-    "Artificial Intelligence/Orange/Kaggle에서 데이터 이용하기.md",
-    "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
-    "README.md",
-    "Artificial Intelligence/Teachable Machine/Teachable Machine.md",
-    "2024-03-07 외부강의.md",
-    "KangDongSeSac_DX_1-main/2024-03-07 외부강의.md",
     "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.34.05.png",
     "Artificial Intelligence/Orange/Kaggle Website.png",
     "Artificial Intelligence/Orange/Results.png",
