@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/문제 발견 및 기회 창출 2.md",
+                "file": "KangDongSeSac_DX_1-main/Road to PM 프로젝트 경험정리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "56673e45722c868d",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast Campus/문제 발견 및 기회 창출 2.md",
+                "file": "KangDongSeSac_DX_1-main/Road to PM 프로젝트 경험정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast Campus/문제 발견 및 기회 창출 2.md",
+                "file": "KangDongSeSac_DX_1-main/Road to PM 프로젝트 경험정리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast Campus/문제 발견 및 기회 창출 2.md"
+                "file": "KangDongSeSac_DX_1-main/Road to PM 프로젝트 경험정리.md"
               }
             }
           },
@@ -163,8 +162,9 @@
   },
   "active": "1cd43f24601eec3c",
   "lastOpenFiles": [
-    "Fast Campus/문제 발견 및 기회 창출 1.md",
     "Fast Campus/문제 발견 및 기회 창출 2.md",
+    "KangDongSeSac_DX_1-main/Road to PM 프로젝트 경험정리.md",
+    "Fast Campus/문제 발견 및 기회 창출 1.md",
     "Fast Campus/Untitled.md",
     "Fast Campus/Part.1 개론.md",
     "Fast Campus/PM 직무 개념 차이.md",
@@ -198,7 +198,6 @@
     "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-14 강의.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-13 강의.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "KangDongSeSac_DX_1-main/강의/web_3.png",
