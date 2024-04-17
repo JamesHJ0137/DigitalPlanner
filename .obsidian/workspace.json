@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/UIUX.md",
+                "file": "Fast Campus/AB 테스트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast Campus/UIUX.md",
+                "file": "Fast Campus/AB 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast Campus/UIUX.md",
+                "file": "Fast Campus/AB 테스트.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast Campus/UIUX.md"
+                "file": "Fast Campus/AB 테스트.md"
               }
             }
           },
@@ -176,18 +176,22 @@
   },
   "active": "074959204590709f",
   "lastOpenFiles": [
-    "스크린샷 2024-04-15 23.06.26 1.png",
-    "Fast Campus/Part.1 개론.md",
-    "Fast Campus/UIUX.md",
-    "Fast Campus/페르소나(Persona) & 저니맵(Journey Map).md",
+    "Fast Campus/Untitled.md",
     "Fast Campus/AB 테스트.md",
-    "Fast Campus/마켓 리서치.md",
     "Fast Campus/문제 발견 및 기회 창출 1.md",
+    "Fast Campus/요구사항 정의서 (PRD).md",
+    "Fast Campus/제품로드맵 작성.md",
+    "Fast Campus/페르소나(Persona) & 저니맵(Journey Map).md",
+    "Fast Campus/UX 리서치.md",
+    "Fast Campus/UIUX.md",
+    "Fast Campus/Part.1 개론.md",
+    "Fast Campus/목표설정.md",
+    "스크린샷 2024-04-15 23.06.26 1.png",
+    "Fast Campus/마켓 리서치.md",
     "TOSS PO가 알아야 하는 개념.md",
     "DEMO-DAY PITCH DECK.md",
     "Fast Campus/문제 발견 및 기회 창출 2.md",
     "Fast Campus/PM 직무 개념 차이.md",
-    "Fast Campus/UX 리서치.md",
     "www.slidesalad.com.md",
     "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
     "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
@@ -201,11 +205,8 @@
     "KangDongSeSac_DX_1-main/강의/2024-03-20 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
     "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
-    "Obsidian with Google Calendar.md",
     "python/myPythonStudy.ipynb",
     "python",
-    "Test git.md",
-    "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
     "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw",
     "KangDongSeSac_DX_1-main/강의/한대희_외부강의.excalidraw",
     "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/3-2.SW_Dev_with_ChatGPT(BE+FE).pdf",
@@ -222,7 +223,6 @@
     "Artificial Intelligence/Orange/Results.png",
     "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.25.24.png",
     "Artificial Intelligence/Orange/Orange_Data_Analysis_Test.png",
-    "Artificial Intelligence/Orange/Orange ows 파일.png",
-    "Artificial Intelligence/Orange/Orange 웹사이트.png"
+    "Artificial Intelligence/Orange/Orange ows 파일.png"
   ]
 }
