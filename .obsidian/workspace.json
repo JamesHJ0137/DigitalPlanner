@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/AB 테스트.md",
+                "file": "Fast Campus/제품 설계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast Campus/AB 테스트.md",
+                "file": "Fast Campus/제품 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast Campus/AB 테스트.md",
+                "file": "Fast Campus/제품 설계.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast Campus/AB 테스트.md"
+                "file": "Fast Campus/제품 설계.md"
               }
             }
           },
@@ -176,7 +176,9 @@
   },
   "active": "074959204590709f",
   "lastOpenFiles": [
-    "Fast Campus/Untitled.md",
+    "Fast Campus/Part.1 개론.md",
+    "Fast Campus/제품 설계.md",
+    "Fast Campus/WBS.md",
     "Fast Campus/AB 테스트.md",
     "Fast Campus/문제 발견 및 기회 창출 1.md",
     "Fast Campus/요구사항 정의서 (PRD).md",
@@ -184,7 +186,6 @@
     "Fast Campus/페르소나(Persona) & 저니맵(Journey Map).md",
     "Fast Campus/UX 리서치.md",
     "Fast Campus/UIUX.md",
-    "Fast Campus/Part.1 개론.md",
     "Fast Campus/목표설정.md",
     "스크린샷 2024-04-15 23.06.26 1.png",
     "Fast Campus/마켓 리서치.md",
@@ -204,7 +205,6 @@
     "KangDongSeSac_DX_1-main/강의/2024-03-19 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-20 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
-    "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
     "python/myPythonStudy.ipynb",
     "python",
     "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw",
