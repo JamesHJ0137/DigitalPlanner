@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/페르소나(Persona) & 저니맵(Journey Map).md",
+                "file": "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/제품 설계.md",
+                "file": "Fast Campus/01. 개론/16 회고.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "56673e45722c868d",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast Campus/제품 설계.md",
+                "file": "Fast Campus/01. 개론/16 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast Campus/제품 설계.md",
+                "file": "Fast Campus/01. 개론/16 회고.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast Campus/제품 설계.md"
+                "file": "Fast Campus/01. 개론/16 회고.md"
               }
             }
           },
@@ -176,23 +176,37 @@
   },
   "active": "074959204590709f",
   "lastOpenFiles": [
-    "Fast Campus/Part.1 개론.md",
-    "Fast Campus/제품 설계.md",
-    "Fast Campus/WBS.md",
-    "Fast Campus/AB 테스트.md",
-    "Fast Campus/문제 발견 및 기회 창출 1.md",
-    "Fast Campus/요구사항 정의서 (PRD).md",
-    "Fast Campus/제품로드맵 작성.md",
-    "Fast Campus/페르소나(Persona) & 저니맵(Journey Map).md",
-    "Fast Campus/UX 리서치.md",
-    "Fast Campus/UIUX.md",
-    "Fast Campus/목표설정.md",
-    "스크린샷 2024-04-15 23.06.26 1.png",
-    "Fast Campus/마켓 리서치.md",
+    "Fast Campus/01. 개론/03 문제 발견 및 기회 창출 2.md",
+    "Fast Campus/01. 개론/02 문제 발견 및 기회 창출 1.md",
+    "Fast Campus/01. 개론/01 Part.1 개론.md",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/libre_condition_2.gif",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/libre_condition_1.gif",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/google_condition_2.jpg",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/google_condition_1.gif",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/condition_style2.gif",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/condition_style1.gif",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/brand_1.png",
+    "KangDongSeSac_DX_1-main/WBS의이해/images/bard_0.jpg",
+    "Fast Campus/00. 짚고 넘어가기",
+    "Fast Campus/02. 역기획 프로젝트 (E-Commerce)",
+    "Fast Campus/00. 짚고 넘어가기/PM 직무 개념 차이.md",
+    "Fast Campus/01. 개론/16 회고.md",
+    "Fast Campus/01. 개론/15 서비스 오픈.md",
+    "Fast Campus/01. 개론/14 테스트.md",
+    "Fast Campus/01. 개론/13 제품 설계.md",
+    "Fast Campus/01. 개론/12 WBS.md",
+    "Fast Campus/01. 개론/11 요구사항 정의서 (PRD).md",
+    "Fast Campus/01. 개론/10 제품로드맵 작성.md",
+    "Fast Campus/01. 개론/09 목표설정.md",
+    "Fast Campus/01. 개론/08 UIUX.md",
+    "Fast Campus/01. 개론/07 AB 테스트.md",
+    "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
+    "Fast Campus/01. 개론/05 UX 리서치.md",
+    "Fast Campus/01. 개론/04 마켓 리서치.md",
+    "Fast Campus/01. 개론",
     "TOSS PO가 알아야 하는 개념.md",
+    "스크린샷 2024-04-15 23.06.26 1.png",
     "DEMO-DAY PITCH DECK.md",
-    "Fast Campus/문제 발견 및 기회 창출 2.md",
-    "Fast Campus/PM 직무 개념 차이.md",
     "www.slidesalad.com.md",
     "KangDongSeSac_DX_1-main/강의/기획자가 가져야할 마인드.md",
     "KangDongSeSac_DX_1-main/강의/DT에 도움주는 소프트웨어들.md",
@@ -200,29 +214,14 @@
     "KangDongSeSac_DX_1-main/Road to PM 프로젝트 경험정리.md",
     "Obsidian Callout Tips.md",
     "Fast Campus",
-    "PM.md",
-    "KangDongSeSac_DX_1-main/스토리보드/readme.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-19 강의.md",
-    "KangDongSeSac_DX_1-main/강의/2024-03-20 강의.md",
     "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
     "python/myPythonStudy.ipynb",
     "python",
     "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw",
     "KangDongSeSac_DX_1-main/강의/한대희_외부강의.excalidraw",
     "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/3-2.SW_Dev_with_ChatGPT(BE+FE).pdf",
-    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/3-1.ComputationThinking.pdf",
-    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/2-3.Text_AI_Customize.pdf",
-    "KangDongSeSac_DX_1-main/강의/인공지능특강_뉴럴웍스랩_한대희대표/2-1.Text_AI_and_LMM.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "KangDongSeSac_DX_1-main/강의/web_3.png",
-    "KangDongSeSac_DX_1-main/강의/web_1.png",
-    "KangDongSeSac_DX_1-main/강의/web_2.png",
-    "Artificial Intelligence/Teachable Machine/스크린샷 2024-03-05 15.34.05.png",
-    "Artificial Intelligence/Orange/Kaggle Website.png",
-    "Artificial Intelligence/Orange/Results.png",
-    "Artificial Intelligence/Orange/스크린샷 2024-03-05 15.25.24.png",
-    "Artificial Intelligence/Orange/Orange_Data_Analysis_Test.png",
-    "Artificial Intelligence/Orange/Orange ows 파일.png"
+    "KangDongSeSac_DX_1-main/강의/web_3.png"
   ]
 }
