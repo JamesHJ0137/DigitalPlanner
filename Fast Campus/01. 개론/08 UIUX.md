@@ -3,6 +3,7 @@
 lecturer: 박철우
 email: duck@hey.com
 ---
+# UIUX
 ## UIUX 개념
 > [!NOTE] 전 구글 PM Ken Norton
 > UX = 사용자 **문제 해결 여정**에 초점을 맞추는 것
