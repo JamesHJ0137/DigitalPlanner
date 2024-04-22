@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
+                "file": "Fast Campus/01. 개론/16 회고.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/01. 개론/20 OMTM.md",
+                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast Campus/01. 개론/20 OMTM.md",
+                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast Campus/01. 개론/20 OMTM.md",
+                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast Campus/01. 개론/20 OMTM.md"
+                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md"
               }
             }
           },
@@ -176,26 +176,27 @@
   },
   "active": "074959204590709f",
   "lastOpenFiles": [
+    "Fast Campus/01. 개론/12 WBS.md",
+    "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
+    "Fast Campus/01. 개론/16 회고.md",
+    "Fast Campus/01. 개론/11 요구사항 정의서 (PRD).md",
+    "Fast Campus/01. 개론/10 제품로드맵 작성.md",
+    "Fast Campus/01. 개론/04 마켓 리서치.md",
+    "Fast Campus/01. 개론/05 UX 리서치.md",
+    "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
+    "Fast Campus/01. 개론/20 OMTM.md",
     "Fast Campus/01. 개론/19 AARRR.md",
     "Fast Campus/01. 개론/18 지표 활용하기.md",
     "Fast Campus/01. 개론/17 그로스해킹.md",
-    "Fast Campus/01. 개론/16 회고.md",
     "Fast Campus/01. 개론/15 서비스 오픈.md",
     "Fast Campus/01. 개론/14 테스트.md",
     "Fast Campus/01. 개론/13 제품 설계.md",
-    "Fast Campus/01. 개론/12 WBS.md",
-    "Fast Campus/01. 개론/11 요구사항 정의서 (PRD).md",
-    "Fast Campus/01. 개론/10 제품로드맵 작성.md",
     "Fast Campus/01. 개론/09 목표설정.md",
     "Fast Campus/01. 개론/08 UIUX.md",
     "Fast Campus/01. 개론/01 Part.1 개론.md",
     "Fast Campus/01. 개론/07 AB 테스트.md",
-    "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
-    "Fast Campus/01. 개론/05 UX 리서치.md",
-    "Fast Campus/01. 개론/04 마켓 리서치.md",
     "Fast Campus/01. 개론/03 기회 창출.md",
     "Fast Campus/01. 개론/02 문제 발견.md",
-    "Fast Campus/01. 개론/20 OMTM.md",
     "TOSS PO가 알아야 하는 개념.md",
     "PM.md",
     "GA4/GA4 시작하기.md",
@@ -214,7 +215,6 @@
     "Fast Campus/01. 개론",
     "스크린샷 2024-04-15 23.06.26 1.png",
     "DEMO-DAY PITCH DECK.md",
-    "www.slidesalad.com.md",
     "Fast Campus",
     "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
     "python/myPythonStudy.ipynb",
