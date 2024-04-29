@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cd43f24601eec3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fast Campus/01. 개론/16 회고.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "074959204590709f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
+                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
+                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
+                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KangDongSeSac_DX_1-main/Wearlux 회고록.md"
+                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md"
               }
             }
           },
@@ -176,30 +162,32 @@
   },
   "active": "074959204590709f",
   "lastOpenFiles": [
-    "Fast Campus/01. 개론/12 WBS.md",
-    "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
     "Fast Campus/01. 개론/16 회고.md",
-    "Fast Campus/01. 개론/11 요구사항 정의서 (PRD).md",
-    "Fast Campus/01. 개론/10 제품로드맵 작성.md",
-    "Fast Campus/01. 개론/04 마켓 리서치.md",
-    "Fast Campus/01. 개론/05 UX 리서치.md",
-    "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
+    "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
+    "Fast Campus/01. 개론/앱개발 방법론의 이해.md",
+    "Fast Campus/01. 개론/22 프로젝트 방법론의 이해.md",
+    "Fast Campus/01. 개론/21 IT 용어정리.md",
     "Fast Campus/01. 개론/20 OMTM.md",
+    "Fast Campus/00. 짚고 넘어가기/PM 직무 개념 차이.md",
     "Fast Campus/01. 개론/19 AARRR.md",
     "Fast Campus/01. 개론/18 지표 활용하기.md",
-    "Fast Campus/01. 개론/17 그로스해킹.md",
-    "Fast Campus/01. 개론/15 서비스 오픈.md",
     "Fast Campus/01. 개론/14 테스트.md",
     "Fast Campus/01. 개론/13 제품 설계.md",
+    "Fast Campus/01. 개론/12 WBS.md",
+    "Fast Campus/01. 개론/11 요구사항 정의서 (PRD).md",
     "Fast Campus/01. 개론/09 목표설정.md",
-    "Fast Campus/01. 개론/08 UIUX.md",
-    "Fast Campus/01. 개론/01 Part.1 개론.md",
+    "Fast Campus/01. 개론/17 그로스해킹.md",
+    "Fast Campus/01. 개론/15 서비스 오픈.md",
+    "Fast Campus/01. 개론/10 제품로드맵 작성.md",
     "Fast Campus/01. 개론/07 AB 테스트.md",
+    "Fast Campus/01. 개론/08 UIUX.md",
+    "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
+    "Fast Campus/01. 개론/05 UX 리서치.md",
+    "Fast Campus/01. 개론/04 마켓 리서치.md",
     "Fast Campus/01. 개론/03 기회 창출.md",
     "Fast Campus/01. 개론/02 문제 발견.md",
-    "TOSS PO가 알아야 하는 개념.md",
-    "PM.md",
-    "GA4/GA4 시작하기.md",
+    "KangDongSeSac_DX_1-main/Wearlux 회고록.md",
+    "Fast Campus/01. 개론/01 Part.1 개론.md",
     "GA4",
     "KangDongSeSac_DX_1-main/WBS의이해/images/libre_condition_2.gif",
     "KangDongSeSac_DX_1-main/WBS의이해/images/libre_condition_1.gif",
@@ -211,10 +199,8 @@
     "KangDongSeSac_DX_1-main/WBS의이해/images/bard_0.jpg",
     "Fast Campus/00. 짚고 넘어가기",
     "Fast Campus/02. 역기획 프로젝트 (E-Commerce)",
-    "Fast Campus/00. 짚고 넘어가기/PM 직무 개념 차이.md",
     "Fast Campus/01. 개론",
     "스크린샷 2024-04-15 23.06.26 1.png",
-    "DEMO-DAY PITCH DECK.md",
     "Fast Campus",
     "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
     "python/myPythonStudy.ipynb",
