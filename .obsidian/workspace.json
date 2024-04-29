@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
+                "file": "Fast Campus/01. 개론/15 서비스 오픈.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
+                "file": "Fast Campus/01. 개론/15 서비스 오픈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
+                "file": "Fast Campus/01. 개론/15 서비스 오픈.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md"
+                "file": "Fast Campus/01. 개론/15 서비스 오픈.md"
               }
             }
           },
@@ -162,9 +162,9 @@
   },
   "active": "074959204590709f",
   "lastOpenFiles": [
+    "Fast Campus/01. 개론/24 API 문서를 통해 서비스 기획하기.md",
+    "Fast Campus/01. 개론/23 앱개발 방법론의 이해.md",
     "Fast Campus/01. 개론/16 회고.md",
-    "Fast Campus/01. 개론/API 문서를 통해 서비스 기획하기.md",
-    "Fast Campus/01. 개론/앱개발 방법론의 이해.md",
     "Fast Campus/01. 개론/22 프로젝트 방법론의 이해.md",
     "Fast Campus/01. 개론/21 IT 용어정리.md",
     "Fast Campus/01. 개론/20 OMTM.md",
