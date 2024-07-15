@@ -24,12 +24,9 @@
             "id": "9f89686febabfe74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "기획서 작성법.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "스크린샷 2024-04-15 23.06.26 1.png"
               }
             }
           }
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기획서 작성법.md",
+                "file": "스크린샷 2024-04-15 23.06.26 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기획서 작성법.md",
+                "file": "스크린샷 2024-04-15 23.06.26 1.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기획서 작성법.md"
+                "file": "스크린샷 2024-04-15 23.06.26 1.png"
               }
             }
           },
@@ -176,33 +173,38 @@
   },
   "active": "9f89686febabfe74",
   "lastOpenFiles": [
+    "KangDongSeSac_DX_1-main/강의/HTML & CSS.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
+    "KangDongSeSac_DX_1-main/강의/2024-03-20 강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-19 강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-18 강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-14 강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-13 강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.md",
+    "KangDongSeSac_DX_1-main/강의/24-03-04 강의.excalidraw",
+    "KangDongSeSac_DX_1-main/강의/2024-03-11 강의.md",
+    "KangDongSeSac_DX_1-main/강의/2024-03-12 강의.pdf",
+    "KangDongSeSac_DX_1-main/software/git_obsidian/3._GITHUB_활용.md",
+    "KangDongSeSac_DX_1-main/software/git_obsidian/4._Obsidian과_markdown.md",
+    "KangDongSeSac_DX_1-main/software/git_obsidian/5._개발자와_디자이너_협업툴.md",
+    "KangDongSeSac_DX_1-main/software/git_obsidian/2._PM에게_필요한GIT.md",
+    "KangDongSeSac_DX_1-main/github이슈관리/4._GITHUB_ISSUE관리.md",
+    "KangDongSeSac_DX_1-main/myExcalidraw/github_howto.excalidraw",
+    "Fast Campus/01. 개론/13 제품 설계.md",
+    "Fast Campus/01. 개론/12 WBS.md",
+    "Fast Campus/01. 개론/11 요구사항 정의서 (PRD).md",
+    "Fast Campus/01. 개론/10 제품로드맵 작성.md",
+    "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
+    "스크린샷 2024-04-15 23.06.26 1.png",
+    "DEMO-DAY PITCH DECK.md",
+    "Obsidian Callout Tips.md",
+    "Obsidian with Google Calendar.md",
+    "TOSS PO가 알아야 하는 개념.md",
+    "PM.md",
+    "기획서 작성법.md",
     "Fast Campus/01. 개론/03 기회 창출.md",
     "Fast Campus/01. 개론/04 마켓 리서치.md",
-    "Fast Campus/01. 개론/09 목표설정.md",
-    "기획서 작성법.md",
-    "PM.md",
-    "Fast Campus/01. 개론/08 UIUX.md",
-    "Fast Campus/01. 개론/07 AB 테스트.md",
-    "Fast Campus/01. 개론/06 페르소나(Persona) & 저니맵(Journey Map).md",
-    "Fast Campus/01. 개론/05 UX 리서치.md",
-    "Fast Campus/01. 개론/02 문제 발견.md",
-    "Fast Campus/01. 개론/14 테스트.md",
-    "Fast Campus/01. 개론/13 제품 설계.md",
-    "Fast Campus/01. 개론/11 요구사항 정의서 (PRD).md",
-    "Fast Campus/01. 개론/12 WBS.md",
-    "Fast Campus/00. 짚고 넘어가기/PM 직무 개념 차이.md",
     "python/1st.py",
-    "Fast Campus/02. 역기획 프로젝트 (E-Commerce)/01 국내 이커머스 시장 특징.md",
-    "Fast Campus/01. 개론/15 서비스 오픈.md",
-    "Fast Campus/01. 개론/24 API 문서를 통해 서비스 기획하기.md",
-    "Fast Campus/01. 개론/23 앱개발 방법론의 이해.md",
-    "Fast Campus/01. 개론/16 회고.md",
-    "Fast Campus/01. 개론/22 프로젝트 방법론의 이해.md",
-    "Fast Campus/01. 개론/21 IT 용어정리.md",
-    "Fast Campus/01. 개론/20 OMTM.md",
-    "Fast Campus/01. 개론/19 AARRR.md",
-    "Fast Campus/01. 개론/18 지표 활용하기.md",
-    "Fast Campus/01. 개론/17 그로스해킹.md",
     "GA4",
     "KangDongSeSac_DX_1-main/WBS의이해/images/libre_condition_2.gif",
     "KangDongSeSac_DX_1-main/WBS의이해/images/libre_condition_1.gif",
@@ -215,12 +217,7 @@
     "Fast Campus/00. 짚고 넘어가기",
     "Fast Campus/02. 역기획 프로젝트 (E-Commerce)",
     "Fast Campus/01. 개론",
-    "스크린샷 2024-04-15 23.06.26 1.png",
     "Fast Campus",
-    "KangDongSeSac_DX_1-main/강의/2024-03-20외부강의.pdf",
-    "python/myPythonStudy.ipynb",
-    "python",
-    "KangDongSeSac_DX_1-main/강의/DT SW.excalidraw",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "KangDongSeSac_DX_1-main/강의/web_3.png"
